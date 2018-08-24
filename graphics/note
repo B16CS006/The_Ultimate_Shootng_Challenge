@@ -1,0 +1,6 @@
+
+As we know c++ doesn't contain graphics library so we have to externally include this file.
+
+This compressed file consists of graphics file and other required file.
+
+Other file are necessary since we want to run our game on windows so what we do we just compile our game in windows using codeblocks so for this we require these file in codeblocks.
